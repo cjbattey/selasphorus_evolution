@@ -1,0 +1,8 @@
+/Users/cj/selasphorus_evolution/data/wgs/dedup/NM3.bam
+/Users/cj/selasphorus_evolution/data/wgs/dedup/NM4.bam
+/Users/cj/selasphorus_evolution/data/wgs/dedup/OR10.bam
+/Users/cj/selasphorus_evolution/data/wgs/dedup/OR2.bam
+/Users/cj/selasphorus_evolution/data/wgs/dedup/WA22.bam
+/Users/cj/selasphorus_evolution/data/wgs/dedup/WA31.bam
+/Users/cj/selasphorus_evolution/data/wgs/dedup/WA35.bam
+/Users/cj/selasphorus_evolution/data/wgs/dedup/WA36.bam
