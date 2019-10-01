@@ -148,8 +148,8 @@ for(i in 1:nrow(tw)){
   toptree[i] <- c("topo1","topo2","topo3")[row[,c("topo1","topo2","topo3")]==maxtopo]
   maxsupport[i] <- maxtopo
 }
+summary(factor(toptree[tw$chr=="Z"]))/nrow(tw[tw$chr=="Z",])
 summary(factor(toptree))/nrow(tw)
-
 
 ###consensus tree
 # trees <- read.tree("analysis/twisst/50kb_trees.tre")
